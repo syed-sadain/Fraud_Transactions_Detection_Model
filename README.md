@@ -1,4 +1,4 @@
-💳##Fraud Transactions Detection Model
+💳#Fraud_Transactions_Detection_Model
 
 A machine learning system designed to detect fraudulent financial transactions using transaction behavior, account balance changes, and transfer patterns.
 
